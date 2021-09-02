@@ -1,5 +1,5 @@
 This is a try out project for AWS.
-Primary owner/contributor = lKeyser2023
+Primary owner/contributor = lKeyser2023, email: lkeyser2023@communityschoolnaples.org
 
 ## Available Scripts
 
