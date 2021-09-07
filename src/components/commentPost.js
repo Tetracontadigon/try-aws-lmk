@@ -1,3 +1,4 @@
+// Updated name to CommentPost from commentPost
 import React, { Component } from 'react'
 
 class CommentPost extends Component {
